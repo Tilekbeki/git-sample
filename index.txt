@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <h1>Hello git!</h1>
+=======
+<h1>Hello git!фывфывфы</h1>
+>>>>>>> parent of 207f2ea (Wrong Commit)
