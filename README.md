@@ -1,3 +1,3 @@
-new method
+stash new method
 testing git stash
 ывфывфывфывфывфывф
